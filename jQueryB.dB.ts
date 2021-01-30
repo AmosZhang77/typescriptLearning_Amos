@@ -4,4 +4,4 @@
 
 // 新建一个tsconfig.json 文件告诉编辑器，所有文件都要ts
 
-declare var jQuery: (selector: string) => any // 可以单独定义再外面，再编写。这个文件可以去社区找，@types
+// declare var jQuery: (selector: string) => any // 可以单独定义再外面，再编写。这个文件可以去社区找，@types
