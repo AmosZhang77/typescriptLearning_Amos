@@ -35,5 +35,5 @@ function getLength(input: string | number) : number {
   }
 }
 
-jQuery('')
+// jQuery('')
 
